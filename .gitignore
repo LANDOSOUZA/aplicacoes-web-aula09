@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Ambiente virtual
+venv/
+
+# Django
+db.sqlite3
+
+# IDEs
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
