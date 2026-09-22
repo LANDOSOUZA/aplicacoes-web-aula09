@@ -1,0 +1,6 @@
+Ativo
+  |
+  | 1
+  |
+  | N
+HistoricoMovimentacao
